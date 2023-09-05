@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming and hacking
 - 🌱 I’m currently learning web development 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me here is my discord username 《_♤_panda_♤_》#3582
+- 📫 How to reach me here is my discord username PoulaBebo
 
 <!---
 panda0-hub/panda0-hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
